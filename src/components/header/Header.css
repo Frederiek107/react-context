@@ -58,5 +58,10 @@ nav a:link {
     color: red;
 }
 
+button {
+    margin: 5px;
+    width: 80px;
+}
+
 
 
